@@ -13,3 +13,9 @@ Objective: Improve Horiseon's Homepage to meet accessibility standards.
 - [x] Use accessible alt attributes.
 - [x] Use heading attributes that fall in sequential order.
 - [x] Find a concise, descriptive title.
+
+![Caption](assets/images/cost-management.png)
+## Acknowledgements
+
+Original Hero photo from Trilogy Education Services, a 2U, Inc.
+
